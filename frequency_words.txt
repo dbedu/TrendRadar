@@ -1,94 +1,129 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-华为
-任正非
-鸿蒙
-HarmonyOS
-
-比亚迪
-王传福
-
-宇树
-王兴兴
-
-稚晖君
-智元
-
-黑神话
-冯骥
-
-哪吒
-饺子
-!车
-!餐
-
-流浪地球
-郭帆
-三体
-刘慈欣
-
-米哈游
-原神
-星穹铁道
-
-京东
-刘强东
-
-字节
-张一鸣
-
-马斯克
-特斯拉
-
 微软
 Microsoft
-
-黄仁勋
 英伟达
 NVIDIA
-
+黄仁勋
+Jensen Huang
 AMD
-
 谷歌
-google
-gemini
-deepmind
+Google
 
-chatgpt
-openai
-
-claude
+Gemini
+DeepMind
+OpenAI
+ChatGPT
+Claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+苹果
+Apple
 
-ai
-!gai
-人工智能
+亚马逊
+Amazon
+AWS
+
+特斯拉
+
+Tesla
+Meta
 
 汽车
+Automobile
 自动驾驶
-l3
+Autonomous Driving
+电动车
+Electric Vehicle
+新能源汽车
+NEV
+智能驾驶
+Intelligent Driving
+车联网
+Connected Car
+无人驾驶
+Driverless Car
+蔚来
+NIO
+小鹏
+XPeng
+理想
+Li Auto
+比亚迪
+BYD
 
 机器人
+Robot
+人形机器人
+Humanoid Robot
+工业机器人
+Industrial Robot
+服务机器人
+Service Robot
+机器人技术
+Robotics
+波士顿动力
+Boston Dynamics
+优必选
+UBTECH
 
 芯片
+Chip
 半导体
+Semiconductor
 光刻机
+Lithography Machine
+晶圆
+Wafer
+晶圆代工
+Foundry
+台积电
+TSMC
+三星
+Samsung
+英特尔
+Intel
+高通
+Qualcomm
+华为海思
+HiSilicon
 
 科技
+Technology
+5G
+6G
+量子计算
+Quantum Computing
+云计算
+Cloud Computing
+边缘计算
+Edge Computing
+区块链
+Blockchain
+物联网
+IoT
+虚拟现实
+VR
+增强现实
+AR
+元宇宙
+Metaverse
 
-核能
 
-月球
-登月
-火星
-宇宙
-飞船
+生物技术
+Biotechnology
+基因编辑
+Gene Editing
+CRISPR
+医疗科技
+MedTech
+脑机接口
+Brain-Computer Interface
+数字货币
+Cryptocurrency
+比特币
+Bitcoin
+以太坊
+Ethereum
+网络安全
+Cybersecurity
+数据隐私
+Data Privacy
