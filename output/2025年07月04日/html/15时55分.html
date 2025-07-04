@@ -1,0 +1,114 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 255</p><p>生成时间: 2025-07-04 15:55:09</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">汽车 Automobile 自动驾驶 Autonomous Driving 电动车 Electric Vehicle 新能源汽车 NEV 智能驾驶 Intelligent Driving 车联网 Connected Car 无人驾驶 Driverless Car 蔚来 NIO 小鹏 XPeng 理想 Li Auto 比亚迪 BYD</td>
+                    <td class="count">4</td>
+                    <td class="percentage">1.57%</td>
+                    <td class="titles">[zhihu] <a href="https://www.zhihu.com/question/1924223042378233456" target="_blank" class="news-link">小鹏 G7 上市售价 19.58 万起，怎样看待这一价格？会对市场带来怎样的影响？</a> [12] <font color='grey'>- 15时55分</font><br>[zhihu] <a href="https://www.zhihu.com/question/1924029893743731761" target="_blank" class="news-link">如何看待于 7 月 3 日晚上市发售的小鹏 G7？</a> [14] <font color='grey'>- 15时55分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7522849361899081266/" target="_blank" class="news-link">小鹏G7上市售19.58万元起</a> [17] <font color='grey'>- 15时55分</font><br>[weibo] <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26q%3D%23%E6%9C%B1%E5%B9%BF%E6%9D%83%E5%BC%80%E6%99%BA%E9%A9%BE%E5%AF%B9%E5%B0%8F%E9%B9%8FG7%E5%A4%A7%E5%96%8A%E5%BF%83%E5%8A%A8%E4%BA%86%23&amp;_T_WM=16922097837&amp;v_p=42" target="_blank" class="news-link">朱广权开智驾对小鹏G7大喊心动了</a> [28] <font color='grey'>- 15时55分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">微软 Microsoft 英伟达 NVIDIA 黄仁勋 Jensen Huang AMD 谷歌 Google</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.39%</td>
+                    <td class="titles"><div class='new-title'>🆕 [tieba] <a href="https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28343233&amp;amp;topic_name=NVIDIA%E4%B8%AD%E5%9B%BD%E7%89%B9%E4%BE%9B%E6%96%B0%E5%8D%A1%E8%A6%81%E6%9D%A5%E4%BA%86" target="_blank" class="news-link">NVIDIA中国特供新卡要来了</a> [11] <font color='grey'>- 15时55分</font></div></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">苹果 Apple</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.39%</td>
+                    <td class="titles"><div class='new-title'>🆕 [财联社热门] <a href="https://www.cls.cn/detail/2075849" target="_blank" class="news-link">两年来首次！苹果iphone中国销量同比增长 受益于“618”大促</a> [11] <font color='grey'>- 15时55分</font></div></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">特斯拉</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.39%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3750396" target="_blank" class="news-link">媒体再爆料：特斯拉陷入混乱，马斯克不再关心汽车</a> [9] <font color='grey'>- 15时55分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>5</td>
+                    <td class="word">生物技术 Biotechnology 基因编辑 Gene Editing CRISPR 医疗科技 MedTech 脑机接口 Brain-Computer Interface 数字货币 Cryptocurrency 比特币 Bitcoin 以太坊 Ethereum 网络安全 Cybersecurity 数据隐私 Data Privacy</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.39%</td>
+                    <td class="titles"><div class='new-title'>🆕 [财联社热门] <a href="https://www.cls.cn/detail/2075802" target="_blank" class="news-link">国家药监局将出台脑机接口支持政策 脑机接口产业发展有望提速</a> [13] <font color='grey'>- 15时55分</font></div></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 3 条)</h3>
+            <h4>财联社热门 (2 条)</h4><ul><li><a href="https://www.cls.cn/detail/2075849" target="_blank" class="news-link">两年来首次！苹果iphone中国销量同比增长 受益于“618”大促</a> [11]</li><li><a href="https://www.cls.cn/detail/2075802" target="_blank" class="news-link">国家药监局将出台脑机接口支持政策 脑机接口产业发展有望提速</a> [13]</li></ul><h4>tieba (1 条)</h4><ul><li><a href="https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28343233&amp;amp;topic_name=NVIDIA%E4%B8%AD%E5%9B%BD%E7%89%B9%E4%BE%9B%E6%96%B0%E5%8D%A1%E8%A6%81%E6%9D%A5%E4%BA%86" target="_blank" class="news-link">NVIDIA中国特供新卡要来了</a> [11]</li></ul></div>
+        </body>
+        </html>
+        
